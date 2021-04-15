@@ -25,7 +25,7 @@ To Automate Chronic Care Management (CCM) eClinicalWorks/third party monthly bil
   * All Telephone Encounters with Diagnosis codes for the month.
   * Third party vendor monthly billing report with minutes of services provided.
   
-* Data Capture
+### Data Capture
   * pgAdmin
     * Table 1 - patient list 
     * Table 2 - CCM enabled key
@@ -34,7 +34,7 @@ To Automate Chronic Care Management (CCM) eClinicalWorks/third party monthly bil
     * Table 5 - TE for the month
     * Table 6 - Vendor Monthly billing report
     
- * Data Visulization in Tableau
+ ### Data Visulization in Tableau
     * Dashboard - 
         * CCM enabled patient list with Telephone Encounters 
           * This list identifies patient list with non billable TE but billing team needs to count Minutes for CCM.
