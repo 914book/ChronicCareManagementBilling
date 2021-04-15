@@ -12,8 +12,9 @@ To Automate Chronic Care Management (CCM) eClinicalWorks/third party monthly bil
 * This project used Tableau to capture data from excel reports (which are downloaded from Electronic health records) and simplified billing processes with increased accuracy and efficiency.
 
 ### Description 
-* We are planning to use three sources of data.
+* Processes are divided into three sections as shown below:
 * ![screenshot](https://github.com/914book/ChronicCareManagementBilling/blob/main/processes1.PNG)
+
 
 
 ### Description - source of data
