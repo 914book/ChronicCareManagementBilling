@@ -13,7 +13,7 @@ To Automate Chronic Care Management (CCM) eClinicalWorks/third party monthly bil
 
 ### Description 
 * We are planning to use three sources of data.
-* ![screenshot](processes.png)
+* ![screenshot](https://github.com/914book/ChronicCareManagementBilling/blob/main/processes1.PNG)
 
 
 ### Description - source of data
