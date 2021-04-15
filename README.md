@@ -15,14 +15,16 @@ To Automate Chronic Care Management (CCM) eClinicalWorks/third party monthly bil
 * Processes are divided into three sections as shown below:
 * ![screenshot](https://github.com/914book/ChronicCareManagementBilling/blob/main/processes1.PNG)
 
-
-
-### Description - source of data
-* We are planning to use three sources of data.
-  * Unemployment Data - https://www.bls.gov/lau/#tables
-  * Income Data from IRS - https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2018-zip-code-data-soi
-  * scraping housing data from online sources: price, sold date, sq ft, bedrooms, bathrooms, zipcode
-
+### EHR Reports
+* Various EHR based Monthly reports are auto scheduled to be dropped into Cloud based data storage.
+  * CCM enabled patient list
+  * CCM Not enabled patient list
+  * CCM Not eligible patient list
+  * For Exclusion - All patients billed for Home Health, TCM, SNF and Hospice
+  * ALL CCM enbaled patients - PHM module - Practice added minutes list
+  * All Telephone Encounters with Diagnosis codes for the month.
+  * Third party vendor monthly billing report with minutes of services provided.
+  
 * Database
   * pgAdmin
     * Table 1 - Housing Table
